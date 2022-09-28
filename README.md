@@ -18,5 +18,3 @@ C64 Saver v1.2
 ```
 Download the zipped gerber file and use your favorite fabrication site to order some
 ```
-
-Created in conjunction with user [Sp00dies](https://github.com/spoodies)
